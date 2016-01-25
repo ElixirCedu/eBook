@@ -2,6 +2,7 @@
 Learing elixir programming language
 
 ## Packages
+- [Install Erlang](https://www.erlang-solutions.com/resources/download.html)
 - [Learn Elixir in Y minutes](https://learnxinyminutes.com/docs/elixir/)
 - [Introduce elixir](http://elixir.bagwanpankaj.com/)
 - [The Best Resources for Learning Elixir](https://teamgaslight.com/blog/the-best-resources-for-learning-elixir)
