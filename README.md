@@ -12,7 +12,7 @@ Learing elixir programming language
 - [http://elixirnation.io/](http://elixirnation.io/learning)
 
 ## Framework
-- [Phoenix framework](https://www.totaljs.com/)
+- [Phoenix framework](http://www.phoenixframework.org/)
 - [Phoenix framework documents](http://hexdocs.pm/phoenix/Phoenix.html)
 
 ## Examples
