@@ -26,3 +26,4 @@ Learing elixir programming language
 - [Building a versioned REST API with Phoenix Framework](https://renatomoya.github.io/2015/05/09/Building-a-versioned-REST-API-with-Phoenix-Framework.html)
 - [Phoenix Experiment: Holding 2 Million Websocket clients](http://www.akitaonrails.com/2015/10/29/phoenix-experiment-holding-2-million-websocket-clients)
 - [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
+- [RoboFinger](http://blog.elixirsips.com/2014/05/29/robofinger-elixir-based-websocket-controlled-robotic-arm-via-leapmotion/) - RoboFinger - Elixir-based websocket-controlled robotic arm via leapmotion
