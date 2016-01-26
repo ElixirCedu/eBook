@@ -23,3 +23,4 @@ Learing elixir programming language
 - [Elixir blog in 15 minutes using Phoenix framework - Step by Step](http://codetunes.com/2015/phoenix-blog/)
 - [Building a versioned REST API with Phoenix Framework](https://renatomoya.github.io/2015/05/09/Building-a-versioned-REST-API-with-Phoenix-Framework.html)
 - [Phoenix Experiment: Holding 2 Million Websocket clients](http://www.akitaonrails.com/2015/10/29/phoenix-experiment-holding-2-million-websocket-clients)
+- [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
