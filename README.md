@@ -11,6 +11,7 @@ Learing elixir programming language
 - [Beginner Elixir Project Ideas](http://benjamintan.io/blog/2014/05/20/beginner-elixir-project-ideas/)
 - [30 days of elixir](https://github.com/ElixirCedu/30-days-of-elixir)
 - [http://elixirnation.io/](http://elixirnation.io/learning)
+- [Learn elixir with a pro](http://elixirsips.com/)
 
 ## Framework
 - [Phoenix framework](http://www.phoenixframework.org/)
