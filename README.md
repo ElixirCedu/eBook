@@ -12,6 +12,7 @@ Learing elixir programming language
 - [30 days of elixir](https://github.com/ElixirCedu/30-days-of-elixir)
 - [http://elixirnation.io/](http://elixirnation.io/learning)
 - [Learn elixir with a pro](http://elixirsips.com/)
+- [Introduction to Elixir for Rubyists](https://docs.google.com/presentation/d/1PqyURkQuxSGdMmdb-Y8p-P1lsW_4CV9z6Kg8RsHXf2g/)
 
 ## Framework
 - [Phoenix framework](http://www.phoenixframework.org/)
