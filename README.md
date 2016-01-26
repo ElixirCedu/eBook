@@ -13,6 +13,8 @@ Learing elixir programming language
 - [http://elixirnation.io/](http://elixirnation.io/learning)
 - [Learn elixir with a pro](http://elixirsips.com/)
 - [Introduction to Elixir for Rubyists](https://docs.google.com/presentation/d/1PqyURkQuxSGdMmdb-Y8p-P1lsW_4CV9z6Kg8RsHXf2g/)
+- [Elixir 081 by Josh Adams](http://elixirsips.com/episodes/081_eex.html) - Elixir's built-in templating language, useful for embedding Elixir code inside of a string.
+- [Elixir 084 by Josh Adams](http://elixirsips.com/episodes/081_eex.html) - Generating PCM Audio and making some noise
 
 ## Framework
 - [Phoenix framework](http://www.phoenixframework.org/)
